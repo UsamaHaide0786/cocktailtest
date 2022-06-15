@@ -1,4 +1,4 @@
-#Setup
+# Setup
 
 Make sure you have python installed on your system.
 clone project from repository
@@ -10,12 +10,12 @@ Command to run script ``python3 main.py``
 
 To stop script press ctrl+c
 
-##Sample Input and Output
+## Sample Input and Output
 
 Here is the sample input of ingredients:  
-###Input:  
+### Input:  
 ```Gin,Triple Sec,Lillet Blanc,Lemon Juice,Absinthe```   
-###Output:  
+### Output:  
 ```
 Corpse Reviver: ['Gin', 'Triple Sec', 'Lillet Blanc', 'Lemon Juice', 'Absinthe'] , Measures: ['3/4 oz', '3/4 oz', '3/4 oz', '3/4 oz', '1 dash']
 
